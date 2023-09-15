@@ -6,4 +6,4 @@
 
 - Website: [valguerra.com](https://valguerra.com)
 - Twitter: [@valentinoguerra](https://twitter.com/ValentinoGuerra)
-- Telegram: [Send a message](https://t.me/valenguerra)
+- Telegram: [valenguerra](https://t.me/valenguerra)
